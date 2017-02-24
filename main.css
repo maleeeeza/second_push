@@ -1,0 +1,75 @@
+
+div {
+
+	margin-left: 250px;
+}
+
+img {
+
+    float:left;
+
+}
+
+h1 {
+
+    font-family: Sans-serif;
+    font-size: 200%;
+    color: #f5c63c;
+    padding-left: 20px;
+    padding-right: 20px;
+ 
+}
+
+h2 {
+
+    font-family: Sans-serif;
+    font-size: 120%;
+    color: #f5c63c;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+
+
+p {
+	font-family: sans-serif;
+	font-weight: lighter;
+	line-height: 150%;
+	color: #545454;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+ul {
+	font-family: sans-serif;
+	font-weight: lighter;
+	line-height: 150%;
+	color: #545454;
+	padding-left: 35px;
+	padding-right: 20px;
+}
+
+#title {
+	font-family: sans-serif;
+	font-weight: bold;
+	line-height: 150%;
+	color: #545454;
+	padding-right: 20px;
+	
+}
+
+address {
+
+	font-family: sans-serif;
+	font-weight: lighter;
+	line-height: 150%;
+	color: #545454;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+a {
+	font-family: sans-serif;
+	color: #f5c63c;
+
+}
